@@ -2,6 +2,8 @@
 #Fichero: ejer2_1.sh
 #Versión: 22/01/2014
 
+holaholahola
+
 echo La Suma de $1 y $2 resulta: 
 expr $1 + $2
 if test $2 -lt $1
