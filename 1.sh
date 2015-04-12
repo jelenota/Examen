@@ -1,5 +1,5 @@
 #!/bin/bash
 lalalalala
-lololo
+ertert
 ./2.sh &
 gedit &
