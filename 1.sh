@@ -1,4 +1,4 @@
 #!/bin/bash
-prrueba definitiva
+prueba cambios desde el servidor
 ./2.sh &
 gedit &
