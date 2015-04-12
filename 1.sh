@@ -1,5 +1,4 @@
 #!/bin/bash
-lalalalala
-ertert
+prrueba definitiva
 ./2.sh &
 gedit &
